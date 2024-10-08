@@ -40,7 +40,6 @@ body {
 .control {
   display: flex;
   flex-direction: column;
-  
 }
 
 .control button,
@@ -76,7 +75,6 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
-  size: 50px;
   grid-template-rows: 1fr 1fr 1fr;
 }
 
