@@ -3,8 +3,6 @@ import Keybord from './components/Keybord';
 import DrumPad from './components/DrumPad';
 import './App.css';
 
-
-// src/App.js
 const firstSoundsGroup = [
   {
     keyCode: 81,
